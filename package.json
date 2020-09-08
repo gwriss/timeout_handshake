@@ -1,0 +1,12 @@
+{
+  "name": "timeout_handshake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test_handshake": "node index.js"
+  },
+  "dependencies": {
+    "ssh2": "^0.8.9"
+  }
+}
